@@ -1,0 +1,540 @@
+{
+  "login": {
+    "title": "出版物管理平台",
+    "signup_link": "New to ng2-admin? Sign up!",
+    "username": "账号",
+    "password": "密码",
+    "sign_in": "登陆",
+    "forgot_password": "忘记密码?",
+    "sign_from_app_text": "or Sign in with one click",
+    "share_on_facebook": "Share on Facebook",
+    "share_on_twitter": "Share on Twitter",
+    "share_on_google_plus": "Share on Google Plus"
+  },
+  "logout": {
+    "title": "88"
+  },
+  "general": {
+    "title": "出版物管理平台",
+    "akveo": "SHRFID",
+    "home": "首页",
+    "forms": {
+      "option1": "Option 1"
+    },
+    "menu": {
+      "dashboard": "Dashboard",
+      "editors": "Editors",
+      "ck_editor": "CKEditor",
+      "components": "Components",
+      "tree_view": "Tree View",
+      "charts": "Charts",
+      "chartist_js": "Chartist.Js",
+      "ui_features": "UI Features",
+      "typography": "Typography",
+      "buttons": "Buttons",
+      "icons": "Icons",
+      "modals": "Modals",
+      "grid": "Grid",
+      "form_elements": "Form Elements",
+      "form_inputs": "Form Inputs",
+      "form_layouts": "Form Layouts",
+      "tables": "Tables",
+      "basic_tables": "Basic Tables",
+      "smart_tables": "Smart Tables",
+      "maps": "Maps",
+      "google_maps": "Google Maps",
+      "leaflet_maps": "Leaflet Maps",
+      "bubble_maps": "Bubble Maps",
+      "line_maps": "Line Maps",
+      "pages": "Pages",
+      "login": "Login",
+      "register": "Register",
+      "menu_level_1": "Menu Level 1",
+      "menu_level_1_1": "Menu Level 1.1",
+      "menu_level_1_2": "Menu Level 1.2",
+      "menu_level_1_2_1": "Menu Level 1.2.1",
+      "external_link": "External Link",
+
+
+      "publisher": "出版社",
+      "publisher_create_batch": "提交印刷申请",
+      "publisher_create_book_info": "图书信息",
+
+      "printer": "印刷厂",
+      "store": "门店",
+      "batch": "印刷批次",
+      "transaction": "交易流水",
+
+      "wms": "库存管理",
+      "wms_check": "盘点",
+      "wms_check_create": "新增盘点",
+      "wms_check_delete": "删除盘点",
+      "wms_check_list": "盘点列表",
+      "wms_check_detail": "盘点详情",
+
+      "wms_export": "出库",
+      "wms_export_create": "新建出库",
+      "wms_export_delete": "删除出库",
+      "wms_export_list": "出库列表",
+      "wms_export_detail": "出库详情",
+
+      "wms_import": "入库",
+      "wms_import_create": "新建入库",
+      "wms_import_delete": "删除入库",
+      "wms_import_list": "入库列表",
+      "wms_import_detail": "入库详情",
+
+
+
+      "management": {
+        "title": "基础信息管理",
+        "printer":  "印刷厂",
+        "publisher": "出版社",
+        "store":  "门店",
+        "warehouse": "仓库",
+        "book": {
+          "title": "图书相关",
+          "binding": "装订",
+          "author": "作者",
+          "info": "图书信息",
+          "item": "图书"
+        }
+      },
+      "customer":{
+        "title": "顾客管理",
+        "customer": "顾客",
+        "status": "顾客状态",
+        "level": "会员等级"
+      }
+    },
+    "created_with": "Created with"
+  },
+  "dashboard": {
+
+    "new_wechat_user": "新增用户",
+    "total_wechat_user": "用户总数",
+    "purchases_amount": "当月消费额",
+    "purchases_count": "当月销售册数",
+    "new_books_vs_sales": "新印书籍和销量对比",
+    "instock": "在库总量(册)",
+    "store": "门店",
+
+
+    "acquisition_channels": "Acquisition Channels",
+    "users_by_country": "Users by Country",
+    "revenue": "Revenue",
+    "feed": "Feed",
+    "todo_list": "To Do List",
+    "calendar": "Calendar",
+    "new_visits": "New Visits",
+
+    "active_users": "Active Users",
+    "returned": "Returned",
+    "popular_app": {
+      "super_app": "Super App",
+      "most_popular_app": "Most Popular App",
+      "total_visits": "Total Visits",
+      "new_visits": "New Visits",
+      "sales": "Sales"
+    },
+    "todo": {
+      "task_todo": "Task to do.."
+    },
+    "traffic_chart": {
+      "view_total": "Views Total"
+    }
+  },
+  "tree_view": {
+    "title": "basic",
+    "programming": "Programming languages by programming paradigm",
+    "oop": "Object-oriented programming",
+    "java": "Java",
+    "c_plus_plus": "C++",
+    "c_sharp": "C#",
+    "prototype": "Prototype-based programming",
+    "java_script": "JavaScript",
+    "coffee_script": "CoffeeScript",
+    "lua": "Lua"
+  },
+  "chart": {
+    "lines": "Lines",
+    "bars": "Bars",
+    "simple_line_chart": "Simple line chart",
+    "line_chart": "Line chart with area",
+    "bi_polar_line_chart": "Bi-polar line chart with area only",
+    "simple_bar_chart": "Simple bar chart",
+    "multi_line_labels_bar_chart": "Multi-line labels bar chart",
+    "stacked_bar_chart": "Stacked bar chart",
+    "pies_and_donuts": "Pies & Donuts",
+    "simple_pie": "Simple Pie",
+    "pie_with_labels": "Pie with labels",
+    "donut": "Donut"
+  },
+  "wms": {
+    "title": "WMS系统",
+    "warehouse": {
+      "dropbox": "仓库"
+    },
+    "check": {
+      "title": "盘点管理",
+      "id": "盘点编号",
+      "name": "盘点名称",
+      "warehouse": "盘点仓库",
+      "status": "盘点状态",
+      "user": "操作员",
+      "book_items": {
+        "id": "ID",
+        "check_missing": "不在库书目",
+        "rfid": "rfid标签",
+        "status_name": "状态",
+        "warehouse_name": "仓库名"
+      },
+      "button": {
+        "create": "新增",
+        "delete": "删除",
+        "search": "查询",
+        "details": "详情",
+        "back": "返回"
+      }
+    },
+    "storage": {
+      "title": "入库管理",
+      "storage_id": "入库编号",
+      "name": "入库名称",
+      "warehouse": "存入仓库",
+      "src_warehouse": "源仓库",
+      "status": "入库状态",
+      "type": "入库类型",
+      "user": "操作员",
+      "book_items": {
+        "id": "ID",
+        "rfid": "rfid标签",
+        "status_name": "状态",
+        "warehouse_name": "仓库名",
+        "imported": "入库书目"
+      },
+      "button": {
+        "create": "创建",
+        "delete": "删除",
+        "search": "查询",
+        "details": "详情",
+        "back": "返回",
+        "approve": "批准",
+        "reject": "驳回"
+      }
+    },
+    "export": {
+      "title": "出库管理",
+      "export_id": "出库编号",
+      "name": "出库名称",
+      "warehouse": "检出仓库",
+      "dest_warehouse": "目标仓库",
+      "status": "出库状态",
+      "user": "操作员",
+      "type": "出库类型",
+      "book_items": {
+        "id": "ID",
+        "exported": "出库书目",
+        "rfid": "rfid标签",
+        "status_name": "状态",
+        "warehouse_name": "仓库名"
+      },
+      "button": {
+        "create": "创建",
+        "delete": "删除",
+        "search": "查询",
+        "details": "详情",
+        "back": "返回",
+        "approve": "批准",
+        "reject": "驳回"
+      }
+    }
+
+  },
+
+  "management": {
+    "title": "基础信息管理",
+    "printer": {
+      "title": "印刷厂",
+      "column": {
+        "id": "ID",
+        "name": "名称",
+        "alias": "别名",
+        "contact_no": "联系方式",
+        "location": "地址"
+      },
+      "button": {
+        "create": "新增",
+        "delete": "删除",
+        "change": "修改",
+        "choose": "选择",
+        "back": "返回",
+        "submit": "提交",
+        "search": "搜索"
+      }
+    },
+    "publisher": {
+      "title": "出版社",
+      "column": {
+        "id": "ID",
+        "name": "名称",
+        "alias": "别名",
+        "contact_no": "联系方式",
+        "location": "地址"
+      },
+      "button": {
+        "create": "新增",
+        "delete": "删除",
+        "change": "修改",
+        "choose": "选择",
+        "back": "返回",
+        "submit": "提交",
+        "search": "搜索"
+      }
+    },
+    "store": {
+      "title": "门店",
+      "column": {
+        "id": "ID",
+        "name": "名称",
+        "alias": "别名",
+        "contact_no": "联系电话",
+        "location": "地址",
+        "trading_hours": "营业时间"
+      },
+      "button": {
+        "create": "新增",
+        "delete": "删除",
+        "change": "修改",
+        "choose": "选择",
+        "back": "返回",
+        "submit": "提交",
+        "search": "搜索"
+      }
+    },
+    "warehouse": {
+      "title": "仓库",
+      "column": {
+        "id": "ID",
+        "name": "名称",
+        "capacity": "容量",
+        "stock": "库存",
+        "type": "种类"
+      },
+      "button": {
+        "create": "新增",
+        "delete": "删除",
+        "change": "修改",
+        "choose": "选择",
+        "back": "返回",
+        "submit": "提交",
+        "search": "搜索"
+      }
+    },
+    "book": {
+      "title": "图书",
+      "binding": {
+        "title": "装订",
+        "column": {
+          "id": "ID",
+          "name": "名称"
+        },
+        "button": {
+          "create": "新增",
+          "delete": "删除",
+          "change": "修改",
+          "choose": "选择",
+          "back": "返回",
+          "submit": "提交",
+          "search": "搜索"
+        }
+      },
+      "author": {
+        "title": "作者",
+        "column": {
+          "id": "ID",
+          "name": "姓名"
+        },
+        "button": {
+          "create": "新增",
+          "delete": "删除",
+          "change": "修改",
+          "choose": "选择",
+          "back": "返回",
+          "submit": "提交",
+          "search": "搜索"
+        }
+      },
+      "info": {
+        "title":"图书信息",
+        "column" : {
+          "id": "ID",
+          "isbn": "ISBN",
+          "clc": "中图分类号",
+          "title": "书名",
+          "author": "作者",
+          "pubdate": "出版日期",
+          "pages": "印张",
+          "binding": "装订",
+          "publisher": "出版社",
+          "price": "价格",
+          "cover": "封面",
+          "summary": "内容简介"
+        },
+        "button": {
+          "create": "新增",
+          "delete": "删除",
+          "change": "修改",
+          "choose": "选择",
+          "back": "返回",
+          "submit": "提交",
+          "search": "搜索",
+          "reset": "重置"
+        }
+      },
+      "item": {
+        "title":"图书",
+        "column" : {
+          "id": "ID",
+          "batch": "批次",
+          "status": "状态",
+          "store": "门店",
+          "rfid": "rfid",
+          "book_info": "信息"
+        },
+        "button": {
+          "create": "新增",
+          "delete": "删除",
+          "change": "修改",
+          "choose": "选择",
+          "back": "返回",
+          "submit": "提交",
+          "search": "搜索"
+        }
+      }
+    },
+    "batch": {
+      "title": "印刷批次",
+      "column": {
+        "id": "ID",
+        "printer": "印刷厂",
+        "publisher": "出版社",
+        "book_info": "图书",
+        "count": "印量",
+        "qr_count": "二维码数量",
+        "finish_count": "完成数",
+        "status": "状态",
+        "datetime": "时间"
+      },
+      "button": {
+        "create": "新增",
+        "delete": "删除",
+        "change": "修改",
+        "choose": "选择",
+        "back": "返回",
+        "submit": "提交",
+        "search": "搜索",
+        "reset": "重置",
+        "reject": "拒绝",
+        "cancel": "取消",
+        "approve": "审核通过",
+        "download": "下载",
+        "done": "完成"
+      }
+    },
+    "customer": {
+      "title": "顾客",
+      "info": {
+        "title":"顾客信息",
+        "column" : {
+          "id": "ID",
+          "open_id": "open_id",
+          "username": "用户名",
+          "password": "密码",
+          "name": "姓名",
+          "nickname": "别名",
+          "contact_no": "联系电话",
+          "email": "邮箱",
+          "create_at": "创建时间",
+          "points": "积分",
+          "level": "会员等级",
+          "status": "状态",
+          "is_active": "是否可用",
+          "pages": "页码"
+        },
+        "button": {
+          "create": "新增",
+          "delete": "删除",
+          "change": "修改",
+          "choose": "选择",
+          "back": "返回",
+          "submit": "提交",
+          "search": "搜索"
+        }
+      },
+      "status": {
+        "title":"顾客状态",
+        "column" : {
+          "id": "ID",
+          "name": "名称",
+          "description": "描述",
+          "status": "状态"
+        },
+        "button": {
+          "create": "新增",
+          "delete": "删除",
+          "change": "修改",
+          "choose": "选择",
+          "back": "返回",
+          "submit": "提交",
+          "search": "搜索"
+        }
+      },
+      "level": {
+        "title":"会员等级",
+        "column" : {
+          "id": "ID",
+          "name": "名称",
+          "description": "描述",
+          "status": "状态",
+          "s_points": "积分下限",
+          "e_points": "积分上限"
+        },
+        "button": {
+          "create": "新增",
+          "delete": "删除",
+          "change": "修改",
+          "choose": "选择",
+          "back": "返回",
+          "submit": "提交",
+          "search": "搜索"
+        }
+      }
+    },
+    "transaction": {
+      "title": "交易流水",
+      "column": {
+        "id": "ID",
+        "method": "支付方式",
+        "category": "类型",
+        "ref": "交易号",
+        "amount": "金额",
+        "create_at": "时间",
+        "store": "门店",
+        "book_item": "书码"
+      },
+      "button": {
+        "create": "新增",
+        "delete": "删除",
+        "change": "修改",
+        "choose": "选择",
+        "back": "返回",
+        "submit": "提交",
+        "search": "搜索"
+      }
+    }
+
+
+
+  }
+}
