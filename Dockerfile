@@ -1,6 +1,6 @@
 FROM node:7.4.0
 
-RUN git clone https://github.com/akveo/ng2-admin.git /app/ysym \
+RUN git clone https://github.com/Jie-Jin/ysym-prod.git /app/ysym \
     && npm install -g http-server
 
 EXPOSE 5050
