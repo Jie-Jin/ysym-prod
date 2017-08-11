@@ -220,7 +220,8 @@
         "details": "详情",
         "back": "返回",
         "approve": "批准",
-        "reject": "驳回"
+        "reject": "驳回",
+        "ratify": "审批"
       }
     },
     "export": {
@@ -246,7 +247,8 @@
         "details": "详情",
         "back": "返回",
         "approve": "批准",
-        "reject": "驳回"
+        "reject": "驳回",
+        "ratify": "审批"
       }
     }
 
