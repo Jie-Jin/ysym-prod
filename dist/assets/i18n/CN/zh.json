@@ -330,7 +330,31 @@
         "choose": "选择",
         "back": "返回",
         "submit": "提交",
-        "search": "搜索"
+        "search": "搜索",
+        "flow": "流水",
+        "stock": "库存"
+      },
+      "stock": {
+        "title": "库存书目",
+        "column": {
+          "bookInfoTitle": "书名",
+          "count": "数量"
+        },
+        "button": {
+          "back": "返回"
+        }
+      },
+      "flow": {
+        "title": "仓库流水",
+        "column": {
+          "id": "ID",
+          "warehouse": "仓库",
+          "datetime": "时间",
+          "repr": "详情"
+        },
+        "button": {
+          "back": "返回"
+        }
       }
     },
     "book": {
